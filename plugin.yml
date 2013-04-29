@@ -1,0 +1,9 @@
+name: ColorFullList
+main: me.nastasescu.CFL.Main
+version: 1.0
+description: A full color list
+commands:
+  color:
+    description: Display a full color list
+  format:
+    description: Display a full format list
